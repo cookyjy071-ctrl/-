@@ -1,0 +1,6 @@
+{
+  "name": "Elearning Landing Page",
+  "description": "A premium, off-white and deep green themed e-learning platform landing page in React with modern typography and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
